@@ -1,0 +1,19 @@
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\bin\Release\Rent A Car Araç Kiralama Otamasyon.exe.config
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Release\Rent A Car Araç Kiralama Otamasyon.exe
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Release\Rent A Car Araç Kiralama Otamasyon.pdb
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\bin\Release\Rent A Car Araç Kiralama Otamasyon.exe
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\bin\Release\Rent A Car Araç Kiralama Otamasyon.pdb
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Release\Rent A Car Araç Kiralama Otamosyon.csprojResolveAssemblyReference.cache
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Release\Rent_A_Car_Araç_Kiralama_Otamasyon.aracdüzenleme.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Release\Rent_A_Car_Araç_Kiralama_Otamasyon.araclarılistele.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Release\Rent_A_Car_Araç_Kiralama_Otamasyon.bosaraclar.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Release\Rent_A_Car_Araç_Kiralama_Otamasyon.doluaraclar.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Release\Rent_A_Car_Araç_Kiralama_Otamasyon.Form1.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Release\Rent_A_Car_Araç_Kiralama_Otamasyon.Form2.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Release\Rent_A_Car_Araç_Kiralama_Otamasyon.giderişlemleri.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Release\Rent_A_Car_Araç_Kiralama_Otamasyon.kasa.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Release\Rent_A_Car_Araç_Kiralama_Otamasyon.kullanıcılarıdüzenle.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Release\Rent_A_Car_Araç_Kiralama_Otamasyon.sözlesmelerilistele.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Release\Rent_A_Car_Araç_Kiralama_Otamasyon.yenisözlesme.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Release\Rent_A_Car_Araç_Kiralama_Otamasyon.Properties.Resources.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Release\Rent A Car Araç Kiralama Otamosyon.csproj.GenerateResource.Cache

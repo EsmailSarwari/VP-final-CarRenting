@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BDA1C669-70C4-4F7E-9446-2749A3BBA0D5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Rent_A_Car_Araç_Kiralama_Otamasyon</RootNamespace>
+    <AssemblyName>Rent A Car Araç Kiralama Otamasyon</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySqlConnector, Version=2.0.0.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySqlConnector.2.2.5\lib\net471\MySqlConnector.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.6.0.0\lib\net461\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aracdüzenleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aracdüzenleme.Designer.cs">
+      <DependentUpon>aracdüzenleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="araclarılistele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="araclarılistele.Designer.cs">
+      <DependentUpon>araclarılistele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bosaraclar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bosaraclar.Designer.cs">
+      <DependentUpon>bosaraclar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="doluaraclar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doluaraclar.Designer.cs">
+      <DependentUpon>doluaraclar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="giderişlemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giderişlemleri.Designer.cs">
+      <DependentUpon>giderişlemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kasa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kasa.Designer.cs">
+      <DependentUpon>kasa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kullanıcılarıdüzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kullanıcılarıdüzenle.Designer.cs">
+      <DependentUpon>kullanıcılarıdüzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yenisözlesme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yenisözlesme.Designer.cs">
+      <DependentUpon>yenisözlesme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sözlesmelerilistele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sözlesmelerilistele.Designer.cs">
+      <DependentUpon>sözlesmelerilistele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="aracdüzenleme.resx">
+      <DependentUpon>aracdüzenleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="araclarılistele.resx">
+      <DependentUpon>araclarılistele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bosaraclar.resx">
+      <DependentUpon>bosaraclar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doluaraclar.resx">
+      <DependentUpon>doluaraclar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giderişlemleri.resx">
+      <DependentUpon>giderişlemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kasa.resx">
+      <DependentUpon>kasa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kullanıcılarıdüzenle.resx">
+      <DependentUpon>kullanıcılarıdüzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sözlesmelerilistele.resx">
+      <DependentUpon>sözlesmelerilistele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yenisözlesme.resx">
+      <DependentUpon>yenisözlesme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

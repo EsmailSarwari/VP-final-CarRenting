@@ -1,0 +1,131 @@
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\bin\Debug\Rent A Car Araç Kiralama Otamasyon.exe.config
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamasyon.exe
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamasyon.pdb
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\bin\Debug\Rent A Car Araç Kiralama Otamasyon.exe
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\bin\Debug\Rent A Car Araç Kiralama Otamasyon.pdb
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.aracdüzenleme.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.araclarılistele.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.bosaraclar.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.doluaraclar.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.Form1.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.Form2.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.giderişlemleri.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.kasa.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.kullanıcılarıdüzenle.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.sözlesmelerilistele.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.yenisözlesme.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.Properties.Resources.resources
+C:\Users\HÜSEYİN\Desktop\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csproj.GenerateResource.Cache
+C:\Users\HÜSEYİN\Desktop\C# Projeleri\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\bin\Debug\Rent A Car Araç Kiralama Otamasyon.exe.config
+C:\Users\HÜSEYİN\Desktop\C# Projeleri\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamasyon.exe
+C:\Users\HÜSEYİN\Desktop\C# Projeleri\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamasyon.pdb
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\Rent A Car Araç Kiralama Otamasyon.exe.config
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\Rent A Car Araç Kiralama Otamasyon.exe
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\Rent A Car Araç Kiralama Otamasyon.pdb
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csproj.AssemblyReference.cache
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.aracdüzenleme.resources
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.araclarılistele.resources
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.bosaraclar.resources
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.doluaraclar.resources
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.Form1.resources
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.Form2.resources
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.giderişlemleri.resources
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.kasa.resources
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.kullanıcılarıdüzenle.resources
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.sözlesmelerilistele.resources
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.yenisözlesme.resources
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.Properties.Resources.resources
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csproj.GenerateResource.cache
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csproj.CoreCompileInputs.cache
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamasyon.exe
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamasyon.pdb
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\MySqlConnector.dll
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Buffers.dll
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Memory.dll
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\MySqlConnector.xml
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Buffers.xml
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Memory.xml
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Esmail\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csproj.CopyComplete
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\Rent A Car Araç Kiralama Otamasyon.exe
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\Rent A Car Araç Kiralama Otamasyon.exe.config
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\MySqlConnector.dll
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Buffers.dll
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Memory.dll
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\MySqlConnector.xml
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Buffers.xml
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Memory.xml
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csproj.AssemblyReference.cache
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.aracdüzenleme.resources
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.araclarılistele.resources
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.bosaraclar.resources
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.doluaraclar.resources
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.Form1.resources
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.Form2.resources
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.giderişlemleri.resources
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.kasa.resources
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.kullanıcılarıdüzenle.resources
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.sözlesmelerilistele.resources
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.yenisözlesme.resources
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.Properties.Resources.resources
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csproj.GenerateResource.cache
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csproj.CoreCompileInputs.cache
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csproj.CopyComplete
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamasyon.exe
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamasyon.pdb
+C:\Users\nihat\Desktop\(İnternetten) Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\Rent A Car Araç Kiralama Otamasyon.pdb
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\Rent A Car Araç Kiralama Otamasyon.exe.config
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\Rent A Car Araç Kiralama Otamasyon.exe
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\Rent A Car Araç Kiralama Otamasyon.pdb
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\MySqlConnector.dll
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Buffers.dll
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Memory.dll
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\MySqlConnector.xml
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Buffers.xml
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Memory.xml
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csproj.AssemblyReference.cache
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.aracdüzenleme.resources
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.araclarılistele.resources
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.bosaraclar.resources
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.doluaraclar.resources
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.Form1.resources
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.Form2.resources
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.giderişlemleri.resources
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.kasa.resources
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.kullanıcılarıdüzenle.resources
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.sözlesmelerilistele.resources
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.yenisözlesme.resources
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.Properties.Resources.resources
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csproj.GenerateResource.cache
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csproj.CoreCompileInputs.cache
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csproj.CopyComplete
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamasyon.exe
+C:\Users\Esmail\Desktop\Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamasyon.pdb
